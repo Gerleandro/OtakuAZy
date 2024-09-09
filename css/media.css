@@ -1,0 +1,6 @@
+@media screen and (max-width: 901px){
+    .all-az > ul {
+        flex-wrap: wrap !important;
+        width: 100%;
+    }
+} 
